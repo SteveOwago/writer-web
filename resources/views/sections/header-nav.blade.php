@@ -82,7 +82,7 @@
                     <a class="nav-link" href="{{route('services')}}">All Services</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{route('pricing')}}">Blog</a>
+                    <a class="nav-link" href="{{route('blog')}}">Blog</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{route('pricing')}}">Pricing</a>
