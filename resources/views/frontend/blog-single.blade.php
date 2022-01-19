@@ -1,0 +1,292 @@
+@extends('layouts.frontend')
+@section('content')
+    <section class="hero-wrap hero-wrap-2" style="background-image:url(images/xbg_2.jpg.pagespeed.ic.rof5L3aF1A.jpg)">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row no-gutters slider-text align-items-center justify-content-center">
+                <div class="col-md-9 pt-5 mt-5 text-center">
+                    <p class="breadcrumbs"><span class="me-2"><a href="index-2.html">Home <i
+                                    class="fa fa-chevron-right"></i></a></span> <span class="me-2"><a
+                                href="blog.html">Blog <i class="fa fa-chevron-right"></i></a></span> <span>Blog Single <i
+                                class="fa fa-chevron-right"></i></span></p>
+                    <h1 class="mb-0 bread">Blog Details</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="ftco-section">
+        <div class="container">
+            <div class="row g-lg-5">
+                <div class="col-lg-8 blog-single">
+                    <h2 class="mb-3">Build your Dream Software &amp; Engineering Career</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, eius mollitia suscipit,
+                        quisquam doloremque distinctio perferendis et doloribus unde architecto optio laboriosam porro
+                        adipisci sapiente officiis nemo accusamus ad praesentium? Esse minima nisi et. Dolore perferendis,
+                        enim praesentium omnis, iste doloremque quia officia optio deserunt molestiae voluptates soluta
+                        architecto tempora.</p>
+                    <p>
+                        <img src="images/xbg_1.jpg.pagespeed.ic.LEZ7WXICMQ.jpg" alt="" class="img-fluid">
+                    </p>
+                    <p>Molestiae cupiditate inventore animi, maxime sapiente optio, illo est nemo veritatis repellat sunt
+                        doloribus nesciunt! Minima laborum magni reiciendis qui voluptate quisquam voluptatem soluta illo
+                        eum ullam incidunt rem assumenda eveniet eaque sequi deleniti tenetur dolore amet fugit perspiciatis
+                        ipsa, odit. Nesciunt dolor minima esse vero ut ea, repudiandae suscipit!</p>
+                    <h2 class="mb-3 mt-5">#2. Creative WordPress Themes</h2>
+                    <p>Temporibus ad error suscipit exercitationem hic molestiae totam obcaecati rerum, eius aut, in.
+                        Exercitationem atque quidem tempora maiores ex architecto voluptatum aut officia doloremque. Error
+                        dolore voluptas, omnis molestias odio dignissimos culpa ex earum nisi consequatur quos odit quasi
+                        repellat qui officiis reiciendis incidunt hic non? Debitis commodi aut, adipisci.</p>
+                    <p>
+                        <img src="images/ximage_3.jpg.pagespeed.ic.uT3vqkYLiY.jpg" alt="" class="img-fluid">
+                    </p>
+                    <p>Quisquam esse aliquam fuga distinctio, quidem delectus veritatis reiciendis. Nihil explicabo quod,
+                        est eos ipsum. Unde aut non tenetur tempore, nisi culpa voluptate maiores officiis quis vel ab
+                        consectetur suscipit veritatis nulla quos quia aspernatur perferendis, libero sint. Error, velit,
+                        porro. Deserunt minus, quibusdam iste enim veniam, modi rem maiores.</p>
+                    <div class="tag-widget post-tag-container mb-5 mt-5">
+                        <div class="tagcloud">
+                            <a href="#" class="tag-cloud-link">coding</a>
+                            <a href="#" class="tag-cloud-link">education</a>
+                            <a href="#" class="tag-cloud-link">courses</a>
+                            <a href="#" class="tag-cloud-link">online</a>
+                        </div>
+                    </div>
+                    <div class="about-author d-flex p-4 bg-light rounded">
+                        <div class="bio me-md-4 img"
+                            style="background-image:url(images/xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg)"></div>
+                        <div class="desc">
+                            <h3>John Henderson</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem
+                                necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente
+                                consectetur similique, inventore eos fugit cupiditate numquam!</p>
+                        </div>
+                    </div>
+                    <div class="pt-5 mt-5">
+                        <h3 class="mb-5" style="font-size: 34px;">6 Comments</h3>
+                        <ul class="comment-list">
+                            <li class="comment">
+                                <div class="vcard bio">
+                                    <img src="images/xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg" alt="Image placeholder">
+                                </div>
+                                <div class="comment-body">
+                                    <h3>John Doe</h3>
+                                    <div class="meta">January 18, 2021 at 10:20am</div>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum
+                                        necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente
+                                        iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                                    <p><a href="#" class="reply">Reply</a></p>
+                                </div>
+                            </li>
+                            <li class="comment">
+                                <div class="vcard bio">
+                                    <img src="images/xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg" alt="Image placeholder">
+                                </div>
+                                <div class="comment-body">
+                                    <h3>John Doe</h3>
+                                    <div class="meta">January 18, 2021 at 10:20am</div>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum
+                                        necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente
+                                        iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                                    <p><a href="#" class="reply">Reply</a></p>
+                                </div>
+                                <ul class="children">
+                                    <li class="comment">
+                                        <div class="vcard bio">
+                                            <img src="images/xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg"
+                                                alt="Image placeholder">
+                                        </div>
+                                        <div class="comment-body">
+                                            <h3>John Doe</h3>
+                                            <div class="meta">January 18, 2021 at 10:20am</div>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem
+                                                laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe
+                                                enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?
+                                            </p>
+                                            <p><a href="#" class="reply">Reply</a></p>
+                                        </div>
+                                        <ul class="children">
+                                            <li class="comment">
+                                                <div class="vcard bio">
+                                                    <img src="images/xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg"
+                                                        alt="Image placeholder">
+                                                </div>
+                                                <div class="comment-body">
+                                                    <h3>John Doe</h3>
+                                                    <div class="meta">January 18, 2021 at 10:20am</div>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur
+                                                        quidem laborum necessitatibus, ipsam impedit vitae autem, eum
+                                                        officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum
+                                                        impedit necessitatibus, nihil?</p>
+                                                    <p><a href="#" class="reply">Reply</a></p>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="comment">
+                                <div class="vcard bio">
+                                    <img src="images/xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg" alt="Image placeholder">
+                                </div>
+                                <div class="comment-body">
+                                    <h3>John Doe</h3>
+                                    <div class="meta">January 18, 2021 at 10:20am</div>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum
+                                        necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente
+                                        iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                                    <p><a href="#" class="reply">Reply</a></p>
+                                </div>
+                            </li>
+                        </ul>
+
+                        <div class="comment-form-wrap pt-5">
+                            <h3 class="mb-5" style="font-size: 34px;">Leave a comment</h3>
+                            <form action="#" class="p-4 p-lg-5 comment-form">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label for="name">Name *</label>
+                                            <input type="text" class="form-control" id="name">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label for="email">Email *</label>
+                                            <input type="email" class="form-control" id="email">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="website">Website</label>
+                                            <input type="url" class="form-control" id="website">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="message">Message</label>
+                                            <textarea name="" id="message" cols="30" rows="10"
+                                                class="form-control"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <input type="submit" value="Post Comment" class="btn py-3 px-4 btn-primary">
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 sidebar pl-md-4">
+                    <div class="sidebar-box bg-light rounded">
+                        <form action="#" class="search-form">
+                            <div class="form-group">
+                                <span class="icon fa fa-search"></span>
+                                <input type="text" class="form-control" placeholder="Search...">
+                            </div>
+                        </form>
+                    </div>
+                    <div class="sidebar-box">
+                        <h3>Browse Courses</h3>
+                        <ul class="categories me-md-4">
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>UI/UX Design</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>Art &amp; Design</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>Computer Science</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>History &amp; Archelogic</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>Software Engineering</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>Information Software</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>Health &amp; Fitness</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>Marketing</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>Graphic Design</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>Music</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>Business Administration</a></li>
+                            <li><a href="#"><span class="ion-ios-checkmark-circle"></span>Web Management</a></li>
+                        </ul>
+                    </div>
+                    <div class="sidebar-box">
+                        <h3>Recent Blog</h3>
+                        <div class="block-21 mb-4 d-flex">
+                            <a class="blog-img me-4"
+                                style="background-image:url(images/ximage_1.jpg.pagespeed.ic.UgmmPhXrdT.jpg)"></a>
+                            <div class="text">
+                                <h3 class="heading"><a href="#">How Much Do Eat Your Really Need Day?</a></h3>
+                                <div class="meta">
+                                    <div><a href="#"><span class="fa fa-calendar"></span> January 18, 2021</a></div>
+                                    <div><a href="#"><span class="fa fa-user"></span> Admin</a></div>
+                                    <div><a href="#"><span class="fa fa-comment"></span> 19</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="block-21 mb-4 d-flex">
+                            <a class="blog-img me-4"
+                                style="background-image:url(images/ximage_2.jpg.pagespeed.ic.VzEAApnz9L.jpg)"></a>
+                            <div class="text">
+                                <h3 class="heading"><a href="#">How Much Do Eat Your Really Need Day?</a></h3>
+                                <div class="meta">
+                                    <div><a href="#"><span class="fa fa-calendar"></span> January 18, 2021</a></div>
+                                    <div><a href="#"><span class="fa fa-user"></span> Admin</a></div>
+                                    <div><a href="#"><span class="fa fa-comment"></span> 19</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="block-21 mb-4 d-flex">
+                            <a class="blog-img me-4"
+                                style="background-image:url(images/ximage_3.jpg.pagespeed.ic.uT3vqkYLiY.jpg)"></a>
+                            <div class="text">
+                                <h3 class="heading"><a href="#">How Much Do Eat Your Really Need Day?</a></h3>
+                                <div class="meta">
+                                    <div><a href="#"><span class="fa fa-calendar"></span> January 18, 2021</a></div>
+                                    <div><a href="#"><span class="fa fa-user"></span> Admin</a></div>
+                                    <div><a href="#"><span class="fa fa-comment"></span> 19</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sidebar-box">
+                        <h3>Tag Cloud</h3>
+                        <div class="tagcloud">
+                            <a href="#" class="tag-cloud-link">education</a>
+                            <a href="#" class="tag-cloud-link">courses</a>
+                            <a href="#" class="tag-cloud-link">learn</a>
+                            <a href="#" class="tag-cloud-link">study</a>
+                            <a href="#" class="tag-cloud-link">books</a>
+                            <a href="#" class="tag-cloud-link">technology</a>
+                            <a href="#" class="tag-cloud-link">computer</a>
+                            <a href="#" class="tag-cloud-link">design</a>
+                            <a href="#" class="tag-cloud-link">coding</a>
+                        </div>
+                    </div>
+                    <div class="sidebar-box">
+                        <h3>Paragraph</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus
+                            voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur
+                            similique, inventore eos fugit cupiditate numquam!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="ftco-intro py-5 bg-primary">
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-10">
+                    <div class="row g-lg-5">
+                        <div class="col-md-7 text-lg-right">
+                            <h2 class="mb-0">Newsletter - Stay tune and get the latest update</h2>
+                            <p>Far far away, behind the word mountains</p>
+                        </div>
+                        <div class="col-md-5 border-left d-flex align-items-center">
+                            <form action="#" class="subscribe-form">
+                                <div class="form-group d-flex align-items-center">
+                                    <input type="text" class="form-control" placeholder="Enter email address">
+                                    <a href="#" class="btn-icon"><span class="fa fa-paper-plane"></span></a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+@endsection
