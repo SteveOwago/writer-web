@@ -60,7 +60,7 @@
 </div>
 <nav class="navbar navbar-expand-lg  ftco-navbar-light">
     <div class="container-xl">
-        <a href="{{route('login')}}" class="btn-custom order-lg-last">Login</a> | <a href="/signup" class="btn-custom order-lg-last">Register</a>
+        <a href="{{route('login')}}" class="btn-custom order-lg-last">Login</a> | <a href="{{route('register')}}" class="btn-custom order-lg-last">Register</a>
         <button
             class="navbar-toggler"
             type="button"
