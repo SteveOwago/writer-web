@@ -9,8 +9,7 @@
                     <div class="text mt-5 pt-5" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
                         <span class="subheading">Welcome to AeWriters</span>
                         <h1 class="mb-4">Best Online Assignment and Essay Writing Platform </h1>
-                        <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
-                            Consonantia, there live the blind texts.</p>
+                        <p class="mb-4">Get personalized expert assistance in any academic field. 200+ courses and programs covered.</p>
                         <p><a href="#" class="btn btn-primary p-4 py-3">Get Started Now! <span
                                     class="ion-ios-arrow-round-forward"></span></a> <a href="#"
                                 class="btn btn-white p-4 py-3">View Course <span
