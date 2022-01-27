@@ -7,8 +7,8 @@
             <div class="row no-gutters slider-text align-items-center">
                 <div class="col-lg-5">
                     <div class="text mt-5 pt-5" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                        <span class="subheading">Welcome to Academia</span>
-                        <h1 class="mb-4">Best Online Education Expertise </h1>
+                        <span class="subheading">Welcome to AeWriters</span>
+                        <h1 class="mb-4">Best Online Assignment and Essay Writing Platform </h1>
                         <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
                             Consonantia, there live the blind texts.</p>
                         <p><a href="#" class="btn btn-primary p-4 py-3">Get Started Now! <span
