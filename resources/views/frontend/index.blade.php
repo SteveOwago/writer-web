@@ -31,16 +31,15 @@
                 <div class="col-md-6 heading-section d-flex align-items-center" data-aos="fade-up" data-aos-delay="200"
                     data-aos-duration="1000">
                     <div class="mt-0 my-lg-5 py-5">
-                        <span class="subheading">Learn Anything</span>
-                        <h2 class="mb-2">Benefits About Online Learning Expertise</h2>
+                        <span class="subheading">GETTING THE BEST</span>
+                        <h2 class="mb-2">Benefits About Online Experts</h2>
                         <div class="row mt-4 g-lg-2">
                             <div class="col-lg-12 d-flex align-items-stretch services-wrap">
                                 <div class="services d-flex">
                                     <div class="icon"><span class="flaticon-online-learning"></span></div>
                                     <div class="text">
-                                        <h2>Online Courses</h2>
-                                        <p class="mb-0">Far far away, behind the word mountains, far from the
-                                            countries Vokalia and Consonantia, there live the blind texts.</p>
+                                        <h2>E-writing Services</h2>
+                                        <p class="mb-0">We offer custom essay writing in all education field. We also handle online courses for you at an affprdable price</p>
                                     </div>
                                 </div>
                             </div>
@@ -48,9 +47,8 @@
                                 <div class="services d-flex">
                                     <div class="icon"><span class="flaticon-certificate"></span></div>
                                     <div class="text">
-                                        <h2>Earn A Certificates</h2>
-                                        <p class="mb-0">Far far away, behind the word mountains, far from the
-                                            countries Vokalia and Consonantia, there live the blind texts.</p>
+                                        <h2>Get an A+ Grading</h2>
+                                        <p class="mb-0">Our Professional Education Specialist will ensure to give you quality paper for the best grades.</p>
                                     </div>
                                 </div>
                             </div>
@@ -59,8 +57,7 @@
                                     <div class="icon"><span class="flaticon-scientist"></span></div>
                                     <div class="text">
                                         <h2>Learn with Expert</h2>
-                                        <p class="mb-0">Far far away, behind the word mountains, far from the
-                                            countries Vokalia and Consonantia, there live the blind texts.</p>
+                                        <p class="mb-0">Meet with our proffessional experts that will help and tutor you though each task.</p>
                                     </div>
                                 </div>
                             </div>
