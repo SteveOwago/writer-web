@@ -573,18 +573,17 @@
             <div class="row justify-content-center pb-5">
                 <div class="col-md-7 text-center heading-section" data-aos="fade-up" data-aos-duration="1000">
                     <span class="subheading">Our Pricing</span>
-                    <h2 class="mb-3">Pricing &amp; <span>Packages</span></h2>
+                    <h2 class="mb-3">Pricing &amp; <span>Per Page</span></h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
                     <div class="block-7">
                         <div class="text-center">
-                            <span class="excerpt d-block">Basic Plan</span>
-                            <span class="price"><sup>$</sup> <span class="number">49K</span></span>
+                            <span class="excerpt d-block">Custom Essay Writing</span>
+                            <span class="price"><sup>$</sup> <span class="number">$ 11.0</span></span>
                             <div class="p-4 px-lg-5">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                                    there live the blind texts.</p>
+                                <p>We offer a relatively lower price for custom essays for non-technical writing essays.</p>
                             </div>
                             <a href="#" class="btn btn-primary btn-outline-primary d-block px-2 py-3">Get Started</a>
                         </div>
