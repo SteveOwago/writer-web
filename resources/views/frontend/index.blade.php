@@ -573,7 +573,7 @@
             <div class="row justify-content-center pb-5">
                 <div class="col-md-7 text-center heading-section" data-aos="fade-up" data-aos-duration="1000">
                     <span class="subheading">Our Pricing</span>
-                    <h2 class="mb-3">Pricing &amp; <span>Per Page</span></h2>
+                    <h2 class="mb-3">Pricing <span>Per Page</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -592,11 +592,10 @@
                 <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
                     <div class="block-7">
                         <div class="text-center">
-                            <span class="excerpt d-block">Beginner Plan</span>
-                            <span class="price"><sup>$</sup> <span class="number">79K</span></span>
+                            <span class="excerpt d-block">Lab Report</span>
+                            <span class="price"><sup>$</sup> <span class="number">40 +</span></span>
                             <div class="p-4 px-lg-5">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                                    there live the blind texts.</p>
+                                <p>We handle Science Experiment lab reports in Chemestry, Biology, and Physical Sciences. We provide a detailed analysis on the findings as per the requirements of the task.</p>
                             </div>
                             <a href="#" class="btn btn-primary btn-outline-primary d-block px-2 py-3">Get Started</a>
                         </div>
