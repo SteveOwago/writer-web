@@ -581,7 +581,7 @@
                     <div class="block-7">
                         <div class="text-center">
                             <span class="excerpt d-block">Custom Essay Writing</span>
-                            <span class="price"><sup>$</sup> <span class="number">$ 11.0</span></span>
+                            <span class="price"> <span class="number">$ 11.0</span></span>
                             <div class="p-4 px-lg-5">
                                 <p>We offer a relatively lower price for custom essays for non-technical writing essays.</p>
                             </div>
@@ -593,7 +593,7 @@
                     <div class="block-7">
                         <div class="text-center">
                             <span class="excerpt d-block">Lab Report</span>
-                            <span class="price"><sup>$</sup> <span class="number">40 +</span></span>
+                            <span class="price"> <span class="number">$ 40.0 +</span></span>
                             <div class="p-4 px-lg-5">
                                 <p>We handle Science Experiment lab reports in Chemestry, Biology, and Physical Sciences. We provide a detailed analysis on the findings as per the requirements of the task.</p>
                             </div>
@@ -637,7 +637,7 @@
                     <div class="row g-lg-5">
                         <div class="col-md-7 text-lg-right">
                             <h2 class="mb-0">Newsletter - Stay tune and get the latest update</h2>
-                            <p>Far far away, behind the word mountains</p>
+                            <p>We send writing tips as well as educational tips.git </p>
                         </div>
                         <div class="col-md-5 border-left d-flex align-items-center">
                             <form action="#" class="subscribe-form">
