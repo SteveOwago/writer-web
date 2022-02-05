@@ -604,11 +604,10 @@
                 <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
                     <div class="block-7">
                         <div class="text-center">
-                            <span class="excerpt d-block">Premium Plan</span>
-                            <span class="price"><sup>$</sup> <span class="number">109K</span></span>
+                            <span class="excerpt d-block">Dessertation and Thessis</span>
+                            <span class="price"><span class="number">$ 300</span></span>
                             <div class="p-4 px-lg-5">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                                    there live the blind texts.</p>
+                                <p>Our Experts have helped students to annalyze and guide through writing their masters and PhD papers over the years.</p>
                             </div>
                             <a href="#" class="btn btn-primary btn-outline-primary d-block px-2 py-3">Get Started</a>
                         </div>
@@ -637,7 +636,7 @@
                     <div class="row g-lg-5">
                         <div class="col-md-7 text-lg-right">
                             <h2 class="mb-0">Newsletter - Stay tune and get the latest update</h2>
-                            <p>We send writing tips as well as educational tips.git </p>
+                            <p>We send writing tips as well as educational tips.</p>
                         </div>
                         <div class="col-md-5 border-left d-flex align-items-center">
                             <form action="#" class="subscribe-form">
