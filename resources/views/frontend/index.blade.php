@@ -616,11 +616,10 @@
                 <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
                     <div class="block-7">
                         <div class="text-center">
-                            <span class="excerpt d-block">Ultimate Plan</span>
-                            <span class="price"><sup>$</sup> <span class="number">149K</span></span>
+                            <span class="excerpt d-block">Coursework and Assignment</span>
+                            <span class="price"><span class="number">$ 20+</span></span>
                             <div class="p-4 px-lg-5">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                                    there live the blind texts.</p>
+                                <p>Our tutors will help you get through with all your course work and assignments throughout the semester</p>
                             </div>
                             <a href="#" class="btn btn-primary btn-outline-primary d-block px-2 py-3">Get Started</a>
                         </div>
